@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Columns Report Addin</Name>
+		<Assembly>C:\Program Files\MeroZy\Revit Add-ins\Columns Report Revit Add-in\Columns Report Add-in.dll</Assembly>
+		<AddInId>42B8FD29-4C5F-43B2-A750-92EDF4E74BB4</AddInId>
+		<Vendor>Amr Khaled</Vendor>
+		<VendorId>AmrKhaled</VendorId>
+		<Description>My custom Revit add-in for Columns Report</Description>
+		<FullClassName>Columns_Report_Add_in.Revit.ExtApp</FullClassName>
+	</AddIn>
+</RevitAddIns>
